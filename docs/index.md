@@ -15,7 +15,7 @@ This drives the cost down without compromising on functionality and quality.
 
 ## Specifications:
 
-- [x] 290mm diameter
+- [x] 290mm diameter.
 - [x] 2 X 6 Digit Segment displays
 - [x] 8 Standalone Buttons
 - [x] 2 X Rotary Encoders (With push button functionality)
