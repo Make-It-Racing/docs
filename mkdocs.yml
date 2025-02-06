@@ -36,6 +36,9 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true      
 
+extra_css:
+  - stylesheets/extra.css
+  
 extra:
   social:
     - icon: simple/youtube

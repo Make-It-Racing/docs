@@ -1,0 +1,8 @@
+.md-typeset .admonition,
+.md-typeset details {
+  font-size: .8rem
+}
+
+.md-typeset ul li {
+    margin-bottom: 1.5em;
+}
