@@ -4,7 +4,7 @@ Racing using a self built wheel is very unique and satisfying experience.
 Unfortunately, building a sim racing wheel from scratch is very challenging task and requires many different skills and tools.
 The goal of this project is to make building sim racing wheels accessible to everyone.
 
-![Image title](img-wheel.jpg){ align=left }
+![Image title](assets/img-wheel.jpg){ align=left }
 
 ## Main features:
 
