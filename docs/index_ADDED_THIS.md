@@ -1,4 +1,4 @@
-# The Open Source DIY Sim Racing Wheel Project
+1 # The Open Source DIY Sim Racing Wheel Project
 
 Racing using a self built wheel is very unique and satisfying experience.
 Unfortunately, building a sim racing wheel from scratch is very challenging task and requires many different skills and tools.
